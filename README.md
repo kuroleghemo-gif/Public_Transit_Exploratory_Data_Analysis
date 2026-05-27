@@ -1,6 +1,7 @@
 # Public_Transit_Operations_Analytics
 
-<img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/ac4e2c49-5663-41cf-bc2b-fb53836e7b0f" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/80fbdc25-e2a6-437b-81b7-7f880e629cdb" />
+
 
 
 ## Table of Content
