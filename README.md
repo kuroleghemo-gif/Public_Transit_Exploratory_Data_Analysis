@@ -14,7 +14,7 @@
 ##### • [Recommendations](#recommendations)
 
 ## Project Overview
-This project analyzes trip records from a multi-modal public transit network operating across multiple cities. The dataset contains messy, inconsistent, and incomplete records. The goal was to clean, explore, and extract actionable insights to support operational decision-making around passenger demand, fare structure, and transport mode performance.
+This project analyzes trip records from a multi-modal public transit network operating across multiple cities. The dataset contained messy, inconsistent, and incomplete records. The goal was to clean, explore, and extract actionable insights to support operational decision-making around passenger demand, fare structure, and transport mode performance.
 
 ## Project Objectives
 ##### • Clean and preprocess the dataset to ensure data quality
@@ -41,9 +41,9 @@ Right before anaysis, an extensive data cleaning and preprocessing was done . Th
 ## Tools and Skills
 • Programming Language: Python
 • Libraries:
-Pandas for data manipulation and cleaning,
-Matplotlib and Seaborn for data visualization,
-Missingno for missing data visualization.
+- Pandas for data manipulation and cleaning,
+- Matplotlib and Seaborn for data visualization,
+- Missingno for missing data visualization.
 • Environment: Jupyter Notebook
 
 ## Recommendations
