@@ -17,11 +17,11 @@
 This project analyzes trip records from a multi-modal public transit network operating across multiple cities. The dataset contains messy, inconsistent, and incomplete records. The goal was to clean, explore, and extract actionable insights to support operational decision-making around passenger demand, fare structure, and transport mode performance.
 
 ## Project Objectives
-• Clean and preprocess the dataset to ensure data quality
-• Perform univariate, bivariate, and multivariate EDA
-• Compute descriptive statistics to summarize key metrics
-• Create visualizations that effectively communicate findings
-• Deliver actionable recommendations for operations
+##### • Clean and preprocess the dataset to ensure data quality
+##### • Perform univariate, bivariate, and multivariate EDA
+##### • Compute descriptive statistics to summarize key metrics
+##### • Create visualizations that effectively communicate findings
+##### • Deliver actionable recommendations for operations
 
 ## Data Source
 The dataset was provided by 10Alytics as part of their Data Analytics training program. It contained 1000 rows of trip records extracted from a public transit company. Features include unique trip identifier, mode of transport, departure station, arrival station, departure time, fare amount, passenger count, trip duration, day of the week, hour and route.
