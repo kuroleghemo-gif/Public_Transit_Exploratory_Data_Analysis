@@ -1,6 +1,6 @@
 # Public_Transit_Operations_Analytics
 
-<img width="297" height="170" alt="image" src="https://github.com/user-attachments/assets/0513ca76-243e-472f-9dde-746d52ebd36f" />
+<img width="316" height="159" alt="image" src="https://github.com/user-attachments/assets/ac4e2c49-5663-41cf-bc2b-fb53836e7b0f" />
 
 
 ## Table of Content
@@ -29,13 +29,13 @@ The dataset was provided by 10Alytics as part of their Data Analytics training p
 Right before anaysis, an extensive data cleaning and preprocessing was done . The dataset had inconsistent text formatting, whitespace errors, and two unnamed redundant columns that were dropped. Missing values in passenger count, fare amount, and trip duration were assessed, found to follow a missing at random pattern, and filled using grouped median imputation. Two new features, hour of day and route, were engineered to support the analysis.
 
 ## Key Insights
-• Bus was the most used mode (33.2%) while trams were significantly underutilized (13.8%)
-• Sunday had the highest trip volume and Thursday had the lowest yet generated the highest revenue
-• Passenger demand peaked at 8 AM and 9 PM, with a sharp dip at 11 AM
-• Bus demand peaked 5–9 PM, ferries at 8 AM, trains at 7 AM and 2 PM, trams were underutilized across all hours
-• Central station handled the highest trips and revenue, South Point had the lowest across all metrics
-• Trains underperformed on speed on several occasions compared to other modes for the same routes
-• Trip demand, passenger volume, and revenue all fluctuate day-to-day with no clear upward or downward trend
+##### • Bus was the most used mode (33.2%) while trams were significantly underutilized (13.8%)
+##### • Sunday had the highest trip volume and Thursday had the lowest yet generated the highest revenue
+##### • Passenger demand peaked at 8 AM and 9 PM, with a sharp dip at 11 AM
+##### • Bus demand peaked 5–9 PM, ferries at 8 AM, trains at 7 AM and 2 PM, trams were underutilized across all hours
+##### • Central station handled the highest trips and revenue, South Point had the lowest across all metrics
+##### • Trains underperformed on speed on several occasions compared to other modes for the same routes
+##### • Trip demand, passenger volume, and revenue all fluctuate day-to-day with no clear upward or downward trend
 
 ## Tools and Skills
 • Programming Language: Python
