@@ -1,6 +1,7 @@
 # Public_Transit_Operations_Analytics
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/80fbdc25-e2a6-437b-81b7-7f880e629cdb" />
+<img width="2875" height="3834" alt="valentyn-chernetskyi-m0_o8QB-JGg-unsplash" src="https://github.com/user-attachments/assets/8263da70-816c-4e0b-958a-6e1d43cc2590" />
+
 
 
 
